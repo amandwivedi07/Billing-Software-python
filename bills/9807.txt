@@ -1,0 +1,20 @@
+		General Store 
+
+ Bill Number: 9807 
+ Date and Time:  2021-08-07 14:57:26.768468
+ Customer Name: Aman 
+ Phone Number: 7272803133
+ ==========================================
+ Products		QTY		Price
+ ==========================================
+ Face Wash		4		160
+ Daal		5		200
+ Sugar 		6		240
+ Limca 		4		160
+ Sprite 		8		320
+ ------------------------------------------
+ Cosmetics Tax 				Rs. 8.0
+ Grocery Tax  				Rs. 22.0
+ Cold Drink Tax 				Rs. 24.0
+ Total Bill :				Rs. 1134.0
+ ------------------------------------------
